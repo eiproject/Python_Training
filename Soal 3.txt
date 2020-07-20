@@ -1,0 +1,5 @@
+Mencari jam menit dan detik dari input detik
+Misal :
+input 4000
+Hasil :
+1 Jam, 6 Menit, 40 detik
